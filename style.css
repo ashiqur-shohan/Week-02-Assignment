@@ -3,3 +3,14 @@
     padding: 7px 30px;
     color: white;
 }
+.content-card{
+    width: 25%;
+}
+
+@media (max-width: 768px)
+{
+    .content-card{
+        width: 100%;
+    }
+    
+}
